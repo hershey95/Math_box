@@ -5,7 +5,7 @@ def subtract(a, b):
   return a-b
 def multifly(a,b)
     return a*b
-def divide(a, b):  
+def divide_premium(a, b):  
     return a/b
     
 
