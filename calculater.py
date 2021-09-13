@@ -9,7 +9,3 @@ def divide_new(a, b):
 >>>>>>> main
     return a/b
 
-def say_hello():
-    print("hello")
-
-
